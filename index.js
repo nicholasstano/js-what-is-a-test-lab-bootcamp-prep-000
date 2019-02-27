@@ -3,4 +3,4 @@
 var name = "Susan"
 var height = "74"
 
-var message 
+var message = `#{name} is 
